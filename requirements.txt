@@ -1,0 +1,5 @@
+PyQt6>=6.9
+openpyxl>=3.1
+black>=25.0
+ruff>=0.12
+mypy>=1.17
